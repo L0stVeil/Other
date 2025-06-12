@@ -1,1 +1,1 @@
-hello user you can use this userscript with using tampermonkey or violentmonkey - https://violentmonkey.github.io/ and https://www.tampermonkey.net/
+hello user , you can use my userscripts with using tampermonkey or violentmonkey - https://violentmonkey.github.io/ or https://www.tampermonkey.net/
